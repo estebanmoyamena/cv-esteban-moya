@@ -1,0 +1,35 @@
+body {
+    font-family: sans-serif;   
+    font-size: large; 
+    margin: auto;
+    padding-left: 100px;
+    padding-right: 100px;
+    padding-bottom: 50px;
+    
+    text-align: center;
+    align-items: center;
+    background-image: url(https://us.123rf.com/450wm/a3701027/a37010271504/a3701027150401302/39310632-fondo-matrix-con-los-s%C3%ADmbolos-verdes-el-concepto-de-perspectiva.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: antiquewhite;
+}
+
+
+.tit1 {
+    color: aliceblue;
+    font-family: sans-serif 
+
+
+}
+
+.tit2 {
+
+    color: blueviolet;
+}
+
+.nav {
+
+       color: chartreuse;
+       font-size: medium;
+
+}
